@@ -70,6 +70,10 @@ Objetivos Específicos:
 
 6.5.3. Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
+![image](https://user-images.githubusercontent.com/93734334/149631006-bc4ca400-f14c-4c84-90f2-bb018b1a0392.png)
+
+![image](https://user-images.githubusercontent.com/93734334/149631018-7c8bdfad-5064-424c-b685-4bd8fed2f7fb.png)
+
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
