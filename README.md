@@ -76,11 +76,19 @@ Objetivos Específicos:
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
+![image](https://user-images.githubusercontent.com/93734334/149632971-ae6876f0-ba49-4537-9bd2-b4a60b6d5f28.png)
+
 6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-6.5.5. ¿Cuál fue la potencia máxima en RL? __________________Watts
+**Si se cumple puesto que una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS, y como se observa la resitencia RL de 1kohm es la que mas se acerca a la resitencia RS 1.2kohm, y es con esta resistencia donde se obtiene la máxima transferencia de potencia.**
 
-6.5.6. ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
+6.5.5. ¿Cuál fue la potencia máxima en RL? 
+
+**0.0465 Watts**
+
+6.5.6. ¿Para qué valor de RL se obtiene la MTP? 
+
+**1000 Ω**
 
 5. VIDEO
 
