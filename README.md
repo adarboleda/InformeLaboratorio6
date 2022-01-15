@@ -30,23 +30,43 @@ Objetivos Específicos:
 
 * RL=220Ω
 
+![image](https://user-images.githubusercontent.com/93734334/149630795-fdf574e8-3914-4635-a09d-e7e5d4b17acd.png)
+
 * RL=470Ω
+
+![image](https://user-images.githubusercontent.com/93734334/149630810-bc630d7c-09eb-44ec-b44e-4b9bca7004bc.png)
 
 * RL=680Ω
 
+![image](https://user-images.githubusercontent.com/93734334/149630820-5cf475f4-790e-43f9-b44b-78412db170bf.png)
+
 * RL=820Ω
+
+![image](https://user-images.githubusercontent.com/93734334/149630834-c2468a96-07ac-4523-b39a-6a4f185b6a84.png)
 
 * RL=1000Ω
 
+![image](https://user-images.githubusercontent.com/93734334/149630842-21944bd9-3678-4265-a1c9-4b3d03d6e9e2.png)
+
 * RL=1500Ω
+
+![image](https://user-images.githubusercontent.com/93734334/149630856-10f9d767-72d5-4f6a-be4e-1f361086ab17.png)
 
 * RL=1800Ω
 
+![image](https://user-images.githubusercontent.com/93734334/149630870-bf3993a9-3849-4b34-b0b6-e43c301445be.png)
+
 * RL=2200Ω
+
+![image](https://user-images.githubusercontent.com/93734334/149630883-425716ab-1156-452c-bd01-3c7b97dac493.png)
 
 * RL=3900Ω
 
+![image](https://user-images.githubusercontent.com/93734334/149630896-078a3712-6fad-4121-9b61-7e72ce835350.png)
+
 * RL=4700Ω
+
+![image](https://user-images.githubusercontent.com/93734334/149630911-f3d1cca6-3e1a-452a-83ef-8f3e1e934ee8.png)
 
 6.5.3. Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
