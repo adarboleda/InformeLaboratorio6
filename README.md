@@ -28,6 +28,26 @@ Objetivos Específicos:
 
 6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
+* R=220Ω
+
+* R=470Ω
+
+* R=680Ω
+
+* R=820Ω
+
+* R=1000Ω
+
+* R=1500Ω
+
+* R=1800Ω
+
+* R=2200Ω
+
+* R=3900Ω
+
+* R=4700Ω
+
 6.5.3. Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
