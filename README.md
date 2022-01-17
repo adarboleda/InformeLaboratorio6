@@ -4,7 +4,13 @@
 
 Objetivo General:
 
+* Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia mediante un análisis analítico y una simulación del circuito. 
+
 Objetivos Específicos:  
+
+* Explicar en qué consiste el Teorema de la Máxima Transferencia de Potencia.
+
+* Analizar el comportamiento de un circuito mediante la aplicación del Teorema de la MTP y comprobar los resultados obtenidos teóricamente de la potencia máxima en RL.
 
 2. MARCO TEÓRICO 
 
