@@ -100,6 +100,8 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 5. VIDEO
 
+https://youtu.be/jRGH_v5ZvgM
+
 6. CONCLUSIONES
 
 * EL teorema de la Máxima Transferencia de Potencia consiste en demostrar que al implementar en un circuito una resistencia con el mismo o semejante  valor a la resistencia de la fuente la potencia alcanza su máximo valor.
