@@ -100,7 +100,7 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 6.5.6. ¿Para qué valor de RL se obtiene la MTP? 
 
-**1000 Ω**
+**1200 Ω**
 
 * Calculo de error
 
