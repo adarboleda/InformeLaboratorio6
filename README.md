@@ -30,6 +30,10 @@ Objetivos Específicos:
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+6.4. MATERIAL Y EQUIPO REQUERIDO
+
+![image](https://user-images.githubusercontent.com/93734334/149992695-3e6a0d37-2e4e-4cb2-adec-03b61f8580b9.png)
+
 6.5.1. Arme el circuito que se muestra en la figura 6.1.
 
 ![image](https://user-images.githubusercontent.com/93734334/149630454-4061bada-fb66-4cf5-a080-07c4b8a8cff8.png)
