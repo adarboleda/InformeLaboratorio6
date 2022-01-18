@@ -98,6 +98,10 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 **1000 Ω**
 
+* Calculo de error
+
+Puesto que los valores de la tabla 6.1 no difieren los unos de lo otros, el calculo de erro seria de un 0%
+
 5. VIDEO
 
 https://youtu.be/jRGH_v5ZvgM
